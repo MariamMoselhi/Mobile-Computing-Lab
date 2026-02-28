@@ -21,7 +21,7 @@ To run any project locally, navigate to the project folder and use the standard 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Mobile-Computing-Lab.git
+git clone https://github.com/MariamMoselhi/Mobile-Computing-Lab.git
 
 # 2. Navigate to a project
 cd Mobile-Computing-Lab/todo
