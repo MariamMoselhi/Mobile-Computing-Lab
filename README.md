@@ -24,7 +24,7 @@ To run any project locally, navigate to the project folder and use the standard 
 git clone https://github.com/YOUR_USERNAME/Mobile-Computing-Lab.git
 
 # 2. Navigate to a project
-cd Mobile-Computing-Lab/todo-list-app
+cd Mobile-Computing-Lab/todo
 
 # 3. Install dependencies
 flutter pub get
