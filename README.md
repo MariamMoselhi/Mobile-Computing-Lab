@@ -9,7 +9,7 @@
 
 | # | Project | Description | Live Preview |  Report |  Demo |
 |---|---------|-------------|:--------------:|:-------:|:-------:|
-| 01 | [**To-Do List App**](./todo-list-app/) | A Flutter to-do application with task creation, completion tracking, real-time search filtering, and delete functionality. Built with a clean stateful widget architecture and a custom scrollable UI. | [Expo ↗](https://mariammoselhi-todo.expo.app/) | [Docs ↗](https://docs.google.com/document/d/176ukRScMtAoNgxmRjH5Ku_lLLpqdGo1g/edit?usp=drive_link&ouid=109091325834731850335&rtpof=true&sd=true) | [Video ↗](https://drive.google.com/file/d/1IQOeegtKT7a1QnNoeZfsRWKPJlAjwkOy/view?usp=sharing) |
+| 01 | [**To-Do List App**](./todo-list-app/) | A Flutter to-do application with task creation, completion tracking, real-time search filtering, and delete functionality. Built with a clean stateful widget architecture and a custom scrollable UI. | [FlutLab ↗](https://flutlab.io/editor/b10a8c80-fbf6-44d3-85b8-ad43b73e378e) | [Docs ↗](https://docs.google.com/document/d/176ukRScMtAoNgxmRjH5Ku_lLLpqdGo1g/edit?usp=drive_link&ouid=109091325834731850335&rtpof=true&sd=true) | [Video ↗](https://drive.google.com/file/d/1IQOeegtKT7a1QnNoeZfsRWKPJlAjwkOy/view?usp=sharing) |
 
 > Links will be updated as more projects are added.
 
@@ -43,7 +43,7 @@ flutter run
 |------------|---------|
 | Flutter | UI framework for cross-platform mobile development |
 | Dart | Programming language |
-| Expo Launch | App preview |
+| FlutLab | App preview |
 
 ---
 
