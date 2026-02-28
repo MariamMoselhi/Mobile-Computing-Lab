@@ -43,7 +43,7 @@ flutter run
 |------------|---------|
 | Flutter | UI framework for cross-platform mobile development |
 | Dart | Programming language |
-| Expo Launch | Aapp preview |
+| Expo Launch | App preview |
 
 ---
 
