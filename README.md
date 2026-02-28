@@ -9,7 +9,7 @@
 
 | # | Project | Description | Live Preview |  Docs |  Demo |
 |---|---------|-------------|:--------------:|:-------:|:-------:|
-| 01 | [**To-Do List App**](./todo/) | A Flutter to-do application with task creation, completion tracking, real-time search filtering, and delete functionality. Built with a clean stateful widget architecture and a custom scrollable UI. | [Firebase ↗]([YOUR_FIREBASE_LINK_HERE](https://studio.firebase.google.com/to-do-list-73163418)) | [Docs ↗](https://docs.google.com/document/d/176ukRScMtAoNgxmRjH5Ku_lLLpqdGo1g/edit?usp=sharing&ouid=109091325834731850335&rtpof=true&sd=true) | [Video ↗](https://drive.google.com/file/d/1IQOeegtKT7a1QnNoeZfsRWKPJlAjwkOy/view?usp=sharing) |
+| 01 | [**To-Do List App**](./todo/) | A Flutter to-do application with task creation, completion tracking, real-time search filtering, and delete functionality. Built with a clean stateful widget architecture and a custom scrollable UI. | [Expo ↗](https://mariammoselhi-todo.expo.app/) | [Video ↗](https://drive.google.com/file/d/1IQOeegtKT7a1QnNoeZfsRWKPJlAjwkOy/view?usp=sharing) |
 
 > Links will be updated as more projects are added.
 
@@ -43,7 +43,7 @@ flutter run
 |------------|---------|
 | Flutter | UI framework for cross-platform mobile development |
 | Dart | Programming language |
-| Firebase | Live hosting & app preview |
+| Expo Launch | Aapp preview |
 
 ---
 
